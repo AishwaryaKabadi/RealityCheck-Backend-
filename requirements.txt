@@ -1,0 +1,4 @@
+-r requirements/production.txt
+django-debug-toolbar
+django-extensions
+qrcode
